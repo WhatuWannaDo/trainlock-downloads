@@ -4,7 +4,7 @@ Windows installers for Trainlock, an independent training service for Deadlock.
 This repository contains release files and installation notes. Application source
 code is maintained separately. Trainlock is not affiliated with Valve.
 
-[Download the Windows preview](https://github.com/WhatuWannaDo/trainlock-downloads/releases/download/v0.1.0-preview.1/Trainlock-Setup.exe)
+[Download the Windows preview](https://github.com/WhatuWannaDo/trainlock-downloads/releases/download/v0.1.0-preview.2/Trainlock-Setup.exe)
 
 ## Windows preview
 
